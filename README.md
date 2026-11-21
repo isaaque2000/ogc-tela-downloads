@@ -20,7 +20,7 @@ Vá em **[Releases → Latest](../../releases/latest)** e baixe:
 1. Uma vez só: `sudo apt install libfuse2` (Ubuntu 22.04 / Debian 12) ou `sudo apt install libfuse2t64` (Ubuntu 24.04+).
 2. `chmod +x OGC-Tela*.AppImage && ./OGC-Tela*.AppImage`
 
-No Linux, por enquanto, dá só para assistir.
+No Linux dá para assistir e, na sessão **X11**, também transmitir. Para transmitir, instale uma vez: `sudo apt install ffmpeg`. No Linux o som do Discord vai junto na transmissão; no Wayland ainda não dá para transmitir.
 
 ## Atualizações
 
